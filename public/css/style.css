@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 36px;
+    min-height: 100vh;
+    display: grid;
+    place-content:center;
+    background-color: skyblue;
+    color: white;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
