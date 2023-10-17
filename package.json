@@ -1,10 +1,10 @@
 {
-  "name": "lesson-10",
+  "name": "lesson-12",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server",
+    "start": "nodemon server",
     "dev": "nodemon server"
   },
   "keywords": [],

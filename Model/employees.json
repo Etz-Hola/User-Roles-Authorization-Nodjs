@@ -1,12 +1,12 @@
 [
-  {
-    "id": 1,
-    "firstname": "ahmed",
-    "lastname": "soliu"
-  },
-  {
-    "id": 2,
-    "firstname": "john",
-    "lastname": "smith"
-  }
+    {
+        "id": 1,
+        "firstname": "QAdir",
+        "lastname": "Olalekan"
+    },
+    {
+        "id": 2,
+        "firstname": "Smallk",
+        "lastname": "Shola"
+    }
 ]
